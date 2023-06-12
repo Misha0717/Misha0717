@@ -1,4 +1,4 @@
-# Hello, I'm Misha!
+# 👋 I'm Misha!
 
 #### My Github Stats:
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Misha0717&show_icons=true&hode_border=true" />
