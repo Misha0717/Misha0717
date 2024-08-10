@@ -1,7 +1,7 @@
 # 👋 I'm Misha!
 
 #### Full stack developer
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,svelte,html,css,php,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,ts,lua,nodejs,react,svelte,html,css,php,mysql,mongodb)
 
 #### My Github Stats:
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Misha0717&show_icons=true&hode_border=true" />
