@@ -1,5 +1,7 @@
 # 👋 I'm Misha!
 
+#### Full stack developer
+
 #### My Github Stats:
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Misha0717&show_icons=true&hode_border=true" />
 <br />
@@ -24,8 +26,3 @@
 
 #### Discord Status:
 [![Discord Presence](https://lanyard.cnrad.dev/api/334767144266891274)](https://discord.com/users/334767144266891274)
-
-#### FiveM Experience:
-- 📝 FiveM Scripter
-- 🖋️ Frontend 
-- 🖋️ Backend
