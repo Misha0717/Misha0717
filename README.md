@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)
-[![My Skills](https://skillicons.dev/icons?i=css)]
+![My Skills](https://skillicons.dev/icons?i=css)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
